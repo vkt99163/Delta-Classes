@@ -1,2 +1,2 @@
 # Delta-Classes
-This file is for delta pratice classes
+This file is for delta pratice classes.
